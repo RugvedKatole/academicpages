@@ -3,8 +3,9 @@ title: "Decentralized Management of Road Intersections without Communication"
 collection: publications
 permalink: /Intersection_management
 excerpt: 'This paper addresses the question that How does an autonomous vehicle decide when to cross without using any infrastructure or associated communication protocols(V2X/V2I) at an unsignalled intersection?'
-date: 2009-10-01
+date: 2023
 venue: 'IEEE INTELLIGENT VEHICLES SYMPOSIUM'
+authors: Rugved Katole, Sushant Suryavanshi, Arpita Sinha
 paperurl: #'http://rugvedkatole.github.io/files/paper1.pdf'
 citation: 'Rugved Katole, Sushant Suryavanshi, Arpita Sinha (2023). &quot;Decentralized Management of Road Intersections without Communication.&quot; <i>IEEE INTELLIGENT VEHICLES SYMPOSIUM</i>. 1(1).'
 ---
