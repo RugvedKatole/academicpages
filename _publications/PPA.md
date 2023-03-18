@@ -3,7 +3,7 @@ title: "Reactive Algorithms for Multiple Agents Prioritized Patrolling"
 collection: publications
 permalink: /publication/PPA.md
 excerpt: 'This paper is about patrolling a structure environment with priority locations such that the time delay between the consecutive visits to the priority locations is minimized'
-date: 2023-10-01
+date: 2023-01-01
 venue: 'IEEE Robotics and Automation Letters (In progress)'
 authors: "Rugved Katole, Deepak Mallya, Leena Vachhani, Arpita Sinha"
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
