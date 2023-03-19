@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Intersection Management"
-excerpt: "In this project, our goal is to develop and implement an algorithm that enables autonomous vehicles to navigate intersections safely and efficiently without relying on traditional traffic signals. To achieve this, we will work on developing communication systems between vehicles and infrastructure, predicting the movements of vehicles, and adjusting their paths to prevent collisions and congestion. The ultimate aim is to enhance traffic flow, reduce fuel consumption and emissions, and enhance safety at intersections. 1<br/><img src='/images/500x300.png'>"
+excerpt: "In this project, our goal is to develop and implement an algorithm that enables autonomous vehicles to navigate intersections safely and efficiently without relying on traditional traffic signals. To achieve this, we will work on developing communication systems between vehicles and infrastructure, predicting the movements of vehicles, and adjusting their paths to prevent collisions and congestion. The ultimate aim is to enhance traffic flow, reduce fuel consumption and emissions, and enhance safety at intersections. 1<br/><img src='/images/intent.png'>"
 collection: portfolio
 ---
 
