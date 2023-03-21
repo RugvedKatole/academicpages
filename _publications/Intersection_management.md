@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Decentralized Management of Road Intersections without Communication"
 collection: publications
 permalink: /Intersection_management
@@ -13,4 +13,4 @@ This paper addresses the question that How does an autonomous vehicle decide whe
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
-<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). --> -->
